@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+main{   
+   border: 1px solid grey;
+   background-color: gainsboro;
+   padding: 30px;
+      
+   
+}
+
+.product-container{
+    
+}
+
+.factura{
+    font-weight: bold;
+}
+span{
+    font-style: italic;
+}
+input{
+    padding: 2px;
+    border-radius: 2px ;
+    border-style: groove;
+}
+main h5 {
+    
+    width: 100px;
+    margin-bottom: 1px;
+}
+button{
+    background-color: #4caf50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
